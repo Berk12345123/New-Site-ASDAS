@@ -1,0 +1,596 @@
+Uri: https://xhangeryazilim.com/
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index.htm
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/assets/vendor/bootstrap/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/vendor/aos/aos.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/css/simple-line-icons.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/font-icon/ionicons/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/vendor/magnific-popup/magnific-popup.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/vendor/slick/slick.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\slick\slick.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/css/style.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/assets/css/booked.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\css\booked.css
+Content Type: text/css
+
+Uri: https://xhangeryazilim.com/sans-kutusu.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sans-kutusu.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/sans-kutularim.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sans-kutularim.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/prime-kasalari.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\prime-kasalari.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/prime-kasasi.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\prime-kasasi.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/bloglar.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\bloglar.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/giris.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\giris.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/gizlilik-politikasi.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\gizlilik-politikasi.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/sss.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sss.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/satinal.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\satinal.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/blog.php?blog=17
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/blog.php?blog=15
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-1.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/blog.php?blog=16
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-2.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/index.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/resimler/rage.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\rage.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/resimler/legit.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\legit.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/resimler/visualg.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\visualg.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/resimler/miscg.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\miscg.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/resimler/skin.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\skin.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/resimler/game.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\game.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/img/samples/post-avatar1.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-avatar1.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/xhangerlogolight.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhangerlogolight.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/vendor/jquery/jquery-migrate.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/font-icon/font-awesome/js/all.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\font-awesome\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/xhanger.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\xhanger.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/vendor/gmap3/dist/gmap3.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\gmap3\dist\gmap3.min.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/js/core.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\js\core.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/js/init.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\js\init.js
+Content Type: application/javascript
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://xhangeryazilim.com/assets/img/samples/section-bg-img1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\section-bg-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/video-placeholder.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\video-placeholder.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/xhanger2.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger2.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/xhanger1.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger1.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/xhanger3.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger3.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/xhanger4.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger4.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/assets/img/samples/slide-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/footer-bg.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/post-widget-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/post-widget-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-2.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/post-widget-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-3.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-block-img-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-block-img-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-block-img-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-block-img-4.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-block-img-5.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-single-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-single-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-2.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-single-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-3.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-single-4.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-4.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/assets/img/samples/room-single-5.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-5.jpg
+Content Type: image/jpeg
+
+Uri: https://xhangeryazilim.com/images/gumus.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\gumus.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/images/altin.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\altin.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/images/elmas.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\elmas.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/blog.php?blog=14
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-3.html
+Content Type: text/html
+
+Uri: https://xhangeryazilim.com/assets/576277.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\576277.png
+Content Type: image/png
+
+Uri: https://xhangeryazilim.com/index.html
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/giris.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\giris-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/bootstrap/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\bootstrap\css\bootstrap-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\animate\animate-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/aos/aos.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\aos\aos-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/css/simple-line-icons.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\css\simple-line-icons-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/ionicons/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\css\ionicons.min-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/magnific-popup/magnific-popup.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\magnific-popup\magnific-popup-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/slick/slick.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\slick\slick-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/css/style.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\css\style-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/assets/css/booked.css
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\css\booked-1.css
+Content Type: text/css
+
+Uri: https://www.xhangeryazilim.com/
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/sans-kutusu.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sans-kutusu-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/sans-kutularim.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sans-kutularim-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/prime-kasalari.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\prime-kasalari-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/prime-kasasi.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\prime-kasasi-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/bloglar.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\bloglar-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/gizlilik-politikasi.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\gizlilik-politikasi-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/sss.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\sss-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/satinal.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\satinal-1.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/index.php
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index-2.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/assets/xhangerlogolight.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhangerlogolight-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/jquery/jquery-migrate.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\bootstrap\js\bootstrap.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/font-awesome/js/all.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\font-awesome\js\all.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/xhanger.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\xhanger-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/vendor/gmap3/dist/gmap3.min.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\vendor\gmap3\dist\gmap3.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/js/core.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\js\core-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/js/init.js
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\js\init-1.js
+Content Type: application/javascript
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons-1.woff2
+Content Type: font/woff2
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons-1.woff
+Content Type: font/woff
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\simple-line-icons\fonts\Simple-Line-Icons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons-1.woff
+Content Type: font/woff
+
+Uri: https://www.xhangeryazilim.com/assets/font-icon/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\font-icon\ionicons\fonts\ionicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/section-bg-img1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\section-bg-img1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/video-placeholder.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\video-placeholder-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/xhanger2.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger2-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/xhanger1.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger1-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/xhanger3.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger3-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/xhanger4.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\xhanger4-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/slide-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\slide-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/footer-bg.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\footer-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/post-widget-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/post-widget-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/post-widget-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-widget-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-block-img-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-block-img-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-block-img-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-block-img-4.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-block-img-5.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-block-img-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-single-1.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-single-2.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-single-3.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-single-4.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/room-single-5.jpg
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\room-single-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.xhangeryazilim.com/blog.php?blog=14
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-4.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/blog.php?blog=17
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-5.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/blog.php?blog=15
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-6.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/resimler/rage.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\rage-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/resimler/legit.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\legit-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/resimler/visualg.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\visualg-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/resimler/miscg.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\miscg-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/resimler/skin.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\skin-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/resimler/game.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\resimler\game-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/assets/img/samples/post-avatar1.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\assets\img\samples\post-avatar1-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/images/gumus.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\gumus-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/images/altin.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\altin-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/images/elmas.png
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\images\elmas-1.png
+Content Type: image/png
+
+Uri: https://www.xhangeryazilim.com/blog.php?blog=16
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\blog-7.html
+Content Type: text/html
+
+Uri: https://www.xhangeryazilim.com/index.html
+File Name: c:\Downloaded Web Sites\xhangeryazilim.com\index-3.html
+Content Type: text/html
+
